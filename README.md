@@ -1,1 +1,1 @@
-meu primeiro sistema no git
+alteração para melhor derscrever meu sistema
